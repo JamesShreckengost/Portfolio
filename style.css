@@ -1,0 +1,110 @@
+body {
+  background-color: rgb(217, 217, 254);
+}
+
+header {
+  padding-top: 200px;
+}
+
+header #img1 {
+position: relative;
+padding-left: 50px;
+height: 100px;
+width: 100px;
+}
+
+/* ask about width size of 1400px and height 422px */
+header #img2 {
+  width: 1000px;
+  height: 622px;
+  padding: 50px;
+  border-radius: 50px;
+}
+
+h1 { 
+  border-bottom: black solid 5px;
+  text-align: center;
+  font-style: italic;
+ 
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+div {
+  padding-top: 100px;
+  text-align: center;
+  position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+section {
+  padding-bottom: 200px;
+  padding-top: 100px;
+  text-align: center;
+  position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+div h2 {
+  border-bottom: solid black 2px;
+  font-style: italic;
+}
+
+section h2 {
+  border-bottom: solid black 2px;
+  font-style: italic;
+  
+}
+
+p {
+  font-size: larger;
+  font-family:'Times New Roman', Times, serif;
+}
+
+footer {
+  text-align: center;
+  border-top: black solid 3px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#img1 {
+  height: 100px;
+  width: 100px;
+}
+
+#dogPic {
+  height: 350px;
+  width: 650px;
+  position: relative;
+  padding: 10px;
+}
+
+#busmallPic {
+  height: 350px;
+  width: 650px;
+  position: relative;
+  padding: 10px;
+}
+
+#travelPic {
+  height: 350px;
+  width: 650px;
+  position: relative;
+  padding: 10px;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 30px;
+  
+}
+
+#screenShots {
+  font-size: 50px;
+  font-family: cursive;
+}
